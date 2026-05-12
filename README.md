@@ -1,4 +1,4 @@
-##The Internet Login Tests
+The Internet Login Tests
 
 UI test automation project built with Java, Selenium WebDriver, JUnit 5, and Maven.
 This project was created as an introductory Selenium framework focused on login validation and basic test structure.
